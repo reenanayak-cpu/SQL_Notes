@@ -1,0 +1,32 @@
+DBMS
+RDBMS
+Characters of DBMS:
+1) Data Integrity
+2) Data Security
+3) Data Consistency
+4) Data Redundancy Elimination
+
+SQL: Structured Query Language
+Components:
+1) DDL(Data Defination Language): CREATE, ALTER, DROP
+2) DML (Data Manupulation Language): INSERT, UPDATE, DELETE
+3) DQL (Data Query Language): SELECT
+4) DCL (Data Control Language): GRANT, REVOKE
+5) TCL (Transaction Control Language): COMMIT, ROLLBACK
+
+Advantages:
+High Speed
+Well defined standards: ANSI and ISO standards
+No Coding Required
+Multiple Data Views
+
+
+
+
+
+
+
+
+
+
+
